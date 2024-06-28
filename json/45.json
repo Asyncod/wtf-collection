@@ -1,0 +1,35 @@
+{
+    "image": ".\\end-wtf\\/images/45.png",
+    "name": "WTF #046",
+    "description": "NFT collection that will blow your mind",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Retrowave Mount"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Ghost Head"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Leopard Suit"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Rude Glasses"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sad Mouth"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Without Tie"
+        },
+        {
+            "trait_type": "Unique",
+            "value": "None"
+        }
+    ]
+}

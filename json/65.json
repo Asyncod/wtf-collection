@@ -1,0 +1,35 @@
+{
+    "image": ".\\end-wtf\\/images/65.png",
+    "name": "WTF #066",
+    "description": "NFT collection that will blow your mind",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Retrowave Bridge"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Ghost Head"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Casino Suit"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Star Glasses"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Kiss Mouth"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Pink Tie"
+        },
+        {
+            "trait_type": "Unique",
+            "value": "None"
+        }
+    ]
+}

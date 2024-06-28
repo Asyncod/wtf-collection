@@ -1,0 +1,35 @@
+{
+    "image": ".\\end-wtf\\/images/66.png",
+    "name": "WTF #067",
+    "description": "NFT collection that will blow your mind",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Retrowave Rock"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Star Head"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Adidas Suit"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Strong Glasses"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothy Mouth"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Without Tie"
+        },
+        {
+            "trait_type": "Unique",
+            "value": "None"
+        }
+    ]
+}

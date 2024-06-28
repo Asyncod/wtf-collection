@@ -1,0 +1,35 @@
+{
+    "image": ".\\end-wtf\\/images/4.png",
+    "name": "WTF #005",
+    "description": "NFT collection that will blow your mind",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Monitors"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heart Head"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Adidas Suit"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Round Glasses"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Kiss Mouth"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Without Tie"
+        },
+        {
+            "trait_type": "Unique",
+            "value": "None"
+        }
+    ]
+}
