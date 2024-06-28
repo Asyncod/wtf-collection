@@ -1,0 +1,35 @@
+{
+    "image": ".\\end-wtf\\/images/114.png",
+    "name": "WTF #115",
+    "description": "NFT collection that will blow your mind",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue WTF"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heart Head"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Brown Suit"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Deal With It Glasses"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sad Mouth"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Gold Tie"
+        },
+        {
+            "trait_type": "Unique",
+            "value": "None"
+        }
+    ]
+}

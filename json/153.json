@@ -1,0 +1,35 @@
+{
+    "image": ".\\end-wtf\\/images/153.png",
+    "name": "WTF #154",
+    "description": "NFT collection that will blow your mind",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Retrowave City"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heart Head"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Casino Suit"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Strong Glasses"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smile Mouth"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Pink Tie"
+        },
+        {
+            "trait_type": "Unique",
+            "value": "None"
+        }
+    ]
+}

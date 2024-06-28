@@ -1,0 +1,35 @@
+{
+    "image": ".\\end-wtf\\/images/109.png",
+    "name": "WTF #110",
+    "description": "NFT collection that will blow your mind",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Retrowave City"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Ghost Head"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Leopard Suit"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Round Glasses"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Fands Mouth"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Without Tie"
+        },
+        {
+            "trait_type": "Unique",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": ".\\end-wtf\\/images/117.png",
+    "name": "WTF #118",
+    "description": "NFT collection that will blow your mind",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Retrowave City"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Star Head"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Blue Suit"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Deal With It Glasses"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Fands Mouth"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Gold Tie"
+        },
+        {
+            "trait_type": "Unique",
+            "value": "None"
+        }
+    ]
+}

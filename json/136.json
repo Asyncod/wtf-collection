@@ -1,0 +1,35 @@
+{
+    "image": ".\\end-wtf\\/images/136.png",
+    "name": "WTF #137",
+    "description": "NFT collection that will blow your mind",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Big City"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Ghost Head"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Brown Suit"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Training Glasses"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothless Mouth"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Butterfly Tie"
+        },
+        {
+            "trait_type": "Unique",
+            "value": "None"
+        }
+    ]
+}

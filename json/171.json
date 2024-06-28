@@ -1,0 +1,35 @@
+{
+    "image": ".\\end-wtf\\/images/171.png",
+    "name": "WTF #172",
+    "description": "NFT collection that will blow your mind",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Retrowave City"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Lamp Head"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Mafia Suit"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Training Glasses"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue Mouth"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Green Tie"
+        },
+        {
+            "trait_type": "Unique",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": ".\\end-wtf\\/images/115.png",
+    "name": "WTF #116",
+    "description": "NFT collection that will blow your mind",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Retrowave Craters"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Thunder Head"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Blue Suit"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Training Glasses"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothless Mouth"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Gold Tie"
+        },
+        {
+            "trait_type": "Unique",
+            "value": "None"
+        }
+    ]
+}

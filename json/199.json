@@ -1,0 +1,35 @@
+{
+    "image": ".\\end-wtf\\/images/199.png",
+    "name": "WTF #200",
+    "description": "NFT collection that will blow your mind",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Money"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Ghost Head"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Adidas Suit"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Strong Glasses"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sad Mouth"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Without Tie"
+        },
+        {
+            "trait_type": "Unique",
+            "value": "None"
+        }
+    ]
+}
