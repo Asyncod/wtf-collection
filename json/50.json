@@ -1,0 +1,35 @@
+{
+    "image": "https://raw.githubusercontent.com/Asyncod/wtf-collection/main/image/50.png",
+    "name": "WTF #051",
+    "description": "NFT collection that will blow your mind",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Retrowave City"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Fire Head"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Brown Suit"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Star Glasses"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothless Mouth"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Pink Tie"
+        },
+        {
+            "trait_type": "Unique",
+            "value": "None"
+        }
+    ]
+}
