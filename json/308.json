@@ -1,0 +1,35 @@
+{
+    "image": "https://raw.githubusercontent.com/Asyncod/wtf-collection/main/image/308.png",
+    "name": "WTF #309",
+    "description": "NFT collection that will blow your mind",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue WTF"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Fire Head"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Casino Suit"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Base Glasses"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sad Mouth"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Green Tie"
+        },
+        {
+            "trait_type": "Unique",
+            "value": "None"
+        }
+    ]
+}
